@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="569px" height="134px" viewBox="0 0 569 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Become premium</title>
+    <desc>Become premium box background</desc>
+    <defs>
+        <linearGradient x1="65.5669488%" y1="282.665746%" x2="68.274197%" y2="-76.8732735%" id="linearGradient-1">
+            <stop stop-color="#626870" offset="0%"></stop>
+            <stop stop-color="#2A2E34" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="63.4868707%" y1="-7.62689917%" x2="30.9678819%" y2="122.880698%" id="linearGradient-2">
+            <stop stop-color="#626870" offset="0%"></stop>
+            <stop stop-color="#2A2E34" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Premium-account" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tool-settings-I" transform="translate(-847.000000, -142.000000)">
+            <g id="Group-4" transform="translate(847.000000, 142.000000)">
+                <g id="Group-6">
+                    <rect id="Rectangle-11" fill="url(#linearGradient-1)" x="0" y="0" width="569" height="134" rx="2"></rect>
+                    <polygon id="Rectangle-11-Copy" fill="url(#linearGradient-2)" points="409.316406 0 565.885254 134 2.48046875 134"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

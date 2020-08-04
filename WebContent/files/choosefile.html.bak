@@ -1,0 +1,93 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Free PDF Editor and Form Filler. Edit PDF online</title>
+    <meta name="description" content="Free Online PDF Editor. Easily add text, shapes, comments and highlights to a PDF file. Fill out PDF forms and modify your PDF by adding annotations."/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <meta name="author" content="ilovepdf.com"/>
+    <meta name="keywords" content="Merge PDF, split PDF, combine PDF, extract PDF, compress PDF, convert PDF, Word to PDF, Excel to PDF, Powerpoint to PDF, PDF to JPG, JPG to PDF"/>
+    <link rel="canonical" href="edit-pdf.html"/>
+    <meta name="apple-itunes-app" content="app-id=1207332399">
+    <meta name="google-play-app" content="app-id=com.ilovepdf.www">
+    <link rel="apple-touch-icon" href="img/app-icon.png">
+    <meta name="google-site-verification" content="IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicons-pdf/favicon-32x32.png">
+     <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ilovepdf_com">
+    <meta name="twitter:creator" content="@ilovepdf_com">
+    <meta name="twitter:title" content="Free PDF Editor and Form Filler. Edit PDF online">
+    <meta name="twitter:description" content="Free Online PDF Editor. Easily add text, shapes, comments and highlights to a PDF file. Fill out PDF forms and modify your PDF by adding annotations.">
+    <meta name="twitter:image:src" content="img/ilovepdf/social/en-US/editpdf.png"/>
+	<meta name="csrf-param" content="_csrf-ilovepdf">
+    <meta name="csrf-token" content="3koVtqWkU5H1YQj6TEsXuSHjyYS_upX8V378GQwCUXSXIVHk0sFjwLsjfJkqBSTabJqn5sfZ7KMbCrNeNDsGMg==">
+
+<link href="dist/css/web.b49cf26.css" rel="stylesheet">
+<link href="dist/css/editpdf.b49cf26.css" rel="stylesheet"></head>
+
+<body class="tool-editpdf  lang-en-US">
+<div class="header">
+    <div class="header__main">
+        <div class="brand">
+    		<div class="brand__logo">
+        		<a href="index.html"
+           			title="iLovePDF">
+                	<img src="img/ilovepdf.svg" alt="iLovePDF">
+       	 		</a>
+    		</div>
+		</div>        
+	<div class="header__nav">
+        <div class="main-menu" id="menuBig">
+        	<ul class="nav">
+            	<li><a href="merge_pdf.html">Merge PDF</a></li>
+            	<li><a href="split_pdf.html">Split PDF</a></li>
+            	<li><a href="compress_pdf.html">Compress PDF</a></li>
+            	<li><a href="protect.html">Protect PDF</a></li>
+            	<li><a href="unlock.html">Unlock PDF</a></li>
+        	</ul>
+    	</div>
+      </div>
+      
+      
+        <div class="top-menu">
+    		<ul class="nav">
+               <li class="nav__item nav__item--gray">
+        			<a href="login.html"><span>Log in</span></a>
+    			</li>
+    			<li class="nav__item nav__item--red">
+        			<a href="register.html">
+            		<i class="ico ico--user"></i>
+            		<span>Sign up</span></a>
+    			</li>
+    			</ul>
+                
+</div>    </div>
+</div>
+
+
+
+<div class="main">
+    
+<div class="tool">
+	 <div class="tool__workarea" id="workArea">
+		<div id="dropArea">
+		</div>
+        <div class="tool__header">
+            <h1 class="tool__header__title">PDF Editor</h1>
+            <h2 class="tool__header__subtitle">Edit PDF by adding text, shapes, comments and highlights.</h2>
+        </div>
+        <div id="uploader" class="uploader">
+    		<a class="uploader__btn tooltip--left" id="pickfiles" type="file" href="#">
+        		<input type="file" name="userfiles"> submit</input>
+    		</a>
+      		<div class="uploader__droptxt">or drop PDF here</div>
+    	</div>
+    	        
+    </div>
+    
+    </div>
+
+
+</div>
+
+
+</html>
